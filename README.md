@@ -1,4 +1,3 @@
-# HCP-NaturalFrequencies
 # HCP MEG Natural Frequency Analysis Pipeline
 
 Matlab code employed to conduct the analysis and create the figures of the following paper:
