@@ -2,7 +2,7 @@
 
 Matlab code employed to conduct the analysis and create the figures of the following paper:
 
-Herrera-Morueco,J.J., Stern, E., Arana, L., Capilla, A. [Preprint] Globally stable, locally flexible: Dynamic reconfiguration of brain natural frequencies during cognitive processing. 
+Herrera-Morueco,J.J., Stern, E., Arana, L., Capilla, A. [Preprint] Globally stable, locally flexible: Dynamic reconfiguration of brain natural frequencies during cognitive processing. bioRxiv 2026.05.01.721676; doi: https://doi.org/10.64898/2026.05.01.721676
 
 The main function is BATCH_HCP
 The main folder as well as subfolders should be added to the Matlab path.
